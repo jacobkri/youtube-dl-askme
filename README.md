@@ -5,9 +5,9 @@ To make this work from anywhere, simply place it somewhere on your system. **I.e
 
 The exact steps are listed below:
 
-**1:** git clone https://github.com/jacobkri/youtube-dl-askme.git
-**2:** sudo ln -s ~/scripts/youtube-dl-askme.sh /usr/bin/youtube-dl-askme
-**3:** sudo chmod ugo+rx /usr/bin/youtube-dl-askme
+**1:** git clone https://github.com/jacobkri/youtube-dl-askme.git  
+**2:** sudo ln -s ~/scripts/youtube-dl-askme.sh /usr/bin/youtube-dl-askme  
+**3:** sudo chmod ugo+rx /usr/bin/youtube-dl-askme  
 
 keep in mind, the above **chmod** is the "readable" way to say:
   grant Read (r) and Execute (x) permission to User (u), Group (g), and Others (o)
