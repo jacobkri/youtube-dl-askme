@@ -12,4 +12,6 @@ The exact steps are listed below:
 **Note.** the above **chmod** is the "readable" way to say:
   grant Read (r) and Execute (x) permission to User (u), Group (g), and Others (o)
 
-You may want to only grant permissions to the user and group (ug), depending on your situration.  
+You may want to only grant permissions to the user and group (ug), depending on your situration.
+
+To download a video, simply type **youtube-dl-askme** into a terminal window. This will ask you if you want to download the video, or if you just want to download the audio (converts to mp3).
