@@ -15,3 +15,5 @@ The exact steps are listed below:
 You may want to only grant permissions to the user and group (ug), depending on your situration.
 
 To download a video, simply type **youtube-dl-askme** into a terminal window. This will ask you if you want to download the video, or if you just want to download the audio (converts to mp3).
+
+If you prefer a local installation, place the symbolic link in **~/local/bin** instead. This will only make the script available to the specific user. You could even place the file itself in **~/local/bin**, since files in this location are writable to the user.
